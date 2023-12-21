@@ -60,6 +60,6 @@ Buon lavoro e buon divertimento!
     - un bottone con la funzione
 
 3. aggiungo il risultato per vederlo in pagina.
-4. recupero gli id in js
+4. recupero le classi in js
 5. creo la funzione del bottone
 
